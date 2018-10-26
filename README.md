@@ -54,3 +54,5 @@ No. They are not active on social media
 
 
 #lijst groepsleden
+#  - Eyup
+#  - Ivo
