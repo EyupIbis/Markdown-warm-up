@@ -1,5 +1,5 @@
 # markdown-warm-up
-# aangepast
+# aangepast 2
 # Welke website heeft u gevonden? (naam, url, link).
 [website arngren](arngren.net)
 
@@ -51,3 +51,8 @@ No. They are not active on social media
 ** Aanbeveling Eyup: **
 - **Aanbeveling 1 **
 - **aanbeveling 2 **
+
+
+#lijst groepsleden
+#  - Eyup
+#  - Ivo
